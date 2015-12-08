@@ -46,7 +46,15 @@ var articles = [
     title: "Why Asian Americans Might Not Talk About Ferguson",
     author: "Liz Lin",
     article_link: "http://thesaltcollective.org/asian-americans-might-talk-ferguson/"
+  },
+
+  {_id: 4, 
+    image: "/images/living-in-barbie-world.jpg",
+    title: "Living in a Barbie World",
+    author: "Imani Franklin",
+    article_link: "http://cddrl.fsi.stanford.edu/sites/default/files/Imani_Franklin.pdf"
   }
+
 ];
 
 /**********
